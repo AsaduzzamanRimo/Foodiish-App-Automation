@@ -1,0 +1,11 @@
+{
+  "validUser": {
+    "firstName": "Rashidul",
+    "lastName": "Hasan",
+    "mobile": "01677777777",
+    "email": "test@gmail.com",
+    "password": "123456",
+    "confirmPassword": "123456",
+    "address": "Dhaka"
+  }
+}
